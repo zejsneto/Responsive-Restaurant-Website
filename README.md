@@ -11,7 +11,7 @@ Link: [View Demo](https://zejsneto.github.io/Responsive-Restaurant-Website/)<br>
 
 ## 👁️‍🗨️ Preview
 <p align="center" >
-  <img width="70%" src="/repository-imgs/gif01.gif" />
+  <img width="100%" src="/repository-imgs/gif01.gif" />
 </p>
 
 ---
